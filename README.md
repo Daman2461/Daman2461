@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Damanjit Singh Butalia
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me damanjit2461@gmail.com
+-  How to reach me damanjit2461@gmail.com
 
 
 <!---
