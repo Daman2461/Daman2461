@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damanjit Singh Butalia
+- 👋 Hi, I’m Damanjit Singh
 -  How to reach me damanjit2461@gmail.com
 
 
