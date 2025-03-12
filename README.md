@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Damanjit Singh
--  How to reach me damanjit2461@gmail.com
+# 👋 Hi, I’m Damanjit Singh
+# How to reach me damanjit2461@gmail.com
 
 
 <!---
